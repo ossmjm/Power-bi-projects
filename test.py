@@ -1,1 +1,1 @@
-"print('Free Palestine')" 
+print('Free Palestine') 
